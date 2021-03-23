@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sushi-cards/static/css/main.2c1318d4.chunk.css",
+    "main.js": "/Sushi-cards/static/js/main.27fafd74.chunk.js",
+    "main.js.map": "/Sushi-cards/static/js/main.27fafd74.chunk.js.map",
+    "runtime-main.js": "/Sushi-cards/static/js/runtime-main.11e86cd5.js",
+    "runtime-main.js.map": "/Sushi-cards/static/js/runtime-main.11e86cd5.js.map",
+    "static/js/2.8d791635.chunk.js": "/Sushi-cards/static/js/2.8d791635.chunk.js",
+    "static/js/2.8d791635.chunk.js.map": "/Sushi-cards/static/js/2.8d791635.chunk.js.map",
+    "index.html": "/Sushi-cards/index.html",
+    "static/css/main.2c1318d4.chunk.css.map": "/Sushi-cards/static/css/main.2c1318d4.chunk.css.map",
+    "static/js/2.8d791635.chunk.js.LICENSE.txt": "/Sushi-cards/static/js/2.8d791635.chunk.js.LICENSE.txt",
+    "static/media/1.76f4b5a6.jpg": "/Sushi-cards/static/media/1.76f4b5a6.jpg",
+    "static/media/2.8331c13f.jfif": "/Sushi-cards/static/media/2.8331c13f.jfif",
+    "static/media/3.79209d89.jpg": "/Sushi-cards/static/media/3.79209d89.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11e86cd5.js",
+    "static/js/2.8d791635.chunk.js",
+    "static/css/main.2c1318d4.chunk.css",
+    "static/js/main.27fafd74.chunk.js"
+  ]
+}
