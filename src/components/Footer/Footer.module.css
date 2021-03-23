@@ -1,0 +1,39 @@
+.Plus{
+    margin: 10px  5px  0 5px;
+    background-color: rgb(226, 55, 55);
+    height: 30px;
+    width: 30px;
+    color:#ffffff;
+    border-color:  rgb(226, 55, 55);;
+}
+.Plus1{
+    margin: 0 0 0 5px;
+    background-color: rgb(226, 55, 55);
+    height: 30px;
+    width: 30px;
+    color:#ffffff;
+    border-color:  rgb(226, 55, 55);;
+}
+input{
+    border-color: rgb(226, 55, 55);
+    height: 23px;
+
+}
+::placeholder{
+    padding-left: 75px;
+    color:black;
+    font-weight: bold;
+   
+}
+.Add{
+height: 30px;
+padding-top: 10px;
+display: flex;
+justify-content: center;
+margin-top: 10px;
+border-color:rgb(226, 55, 55);
+background-color: rgb(226, 55, 55);
+color:#ffffff
+
+    
+}

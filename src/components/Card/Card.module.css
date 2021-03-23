@@ -1,0 +1,29 @@
+h3{
+    color:red;
+    margin-left: 50px;
+   font-weight: bold;
+}
+.Card{
+    width: 250px;
+    height: 250px;
+}
+.Sum{
+   margin: 10px 80px;
+   font-size: 20px;
+   font-weight: bold;
+}
+.Title2{
+    margin: 10px 90px;
+}
+.Title3{
+    height: 30px;
+    padding-top: 13px;
+    font-weight:bold;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(223, 219, 219);
+
+}
+.Title1{
+    margin-left: 25px;
+}
